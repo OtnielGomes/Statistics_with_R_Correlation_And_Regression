@@ -1,4 +1,4 @@
-# My learning with Statistics using the R language:Correlation And Regression
+# My learning with Statistics using the R language: Correlation And Regression
 
 In this project I will be putting into practice my knowledge and learning with regression and correlation using the R language.
 Project dataset:
